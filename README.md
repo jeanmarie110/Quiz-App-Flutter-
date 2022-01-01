@@ -1,18 +1,18 @@
-# Quiz App by using flutter
+# App Quiz en utilisant le flutter
 
-## [Watch it on YouTube](https://youtu.be/Nhy0VWAMsFU)
+## [Regardez-le sur YouTube] (https://www.youtube.com/channel/UCpFAc6I0Rr8FrIEmwdMyg0w)
 
-**Packages we are using:**
+**Forfaits que nous utilisons :**
 
-- websafe_svg: [link](https://pub.dev/packages/websafe_svg)
-- GetX: [link](https://pub.dev/packages/get)
+- websafe_svg : [lien](https://pub.dev/packages/websafe_svg)
+- GetX : [lien](https://pub.dev/packages/get)
 
-Our quiz app contains a total of three-screen, the welcome screen where a user submits their name than the main screen called the questions screen. Each question has 4 options once the user click on the option if the answer is correct then it turns green otherwise red. At the end score screen where you can check your score.
+Notre application de quiz contient un total de trois écrans, l'écran d'accueil où un utilisateur soumet son nom à l'écran principal appelé écran de questions. Chaque question a 4 options une fois que l'utilisateur clique sur l'option si la réponse est correcte puis elle devient verte sinon rouge. À l'écran de score final où vous pouvez vérifier votre score.
 
-This is a complete functional quiz app that works on both Android and iOS devices. For state management, we use the getX package.
+Il s'agit d'une application de quiz fonctionnelle complète qui fonctionne à la fois sur les appareils Android et iOS. Pour la gestion des états, nous utilisons le package getX.
 
-### Quiz App Final UI
+### Interface utilisateur finale de l'application Quiz
 
-<!-- ![Preview](/gif.gif) -->
+<!-- ![Aperçu](/gif.gif) -->
 
-![App UI](/ui.png)
+![Interface utilisateur de l'application](/ui.png)
